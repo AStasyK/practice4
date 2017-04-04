@@ -15,9 +15,11 @@
     "gulp-clean": "^0.3.2",
     "gulp-jade": "^1.1.0",
     "gulp-main-bower-files": "^1.6.1",
+    "gulp-mysql-command-file-processor": "^1.0.5",
     "gulp-notify": "^3.0.0",
     "gulp-pug": "^3.3.0",
     "gulp-sass": "^3.1.0",
+    "gulp-sftp": "^0.1.5",
     "gulp-sourcemaps": "^2.5.1"
   }
 }
